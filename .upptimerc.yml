@@ -7,22 +7,10 @@ sites:
     url: https://www.adomi.app
   - name: Adomi Website (@)
     url: https://adomi.app
-#  - name: Adomi QR (WWW)
-#    url: https://www.adomiqr.com
-#  - name: Adomi QR (@)
-#    url: https://adomiqr.com
-  - name: Dashboard Admin
-    ur: https://admin.adomi.app/login
-  - name: Dashboard Aliados
-    ur: https://aliados.adomi.app/login
-  - name: Ordenes Web
-    ur: https://ordenes.adomi.app/login
-  - name: Adomi Shop
-    url: https://adomi.shop
-  - name: SOAT Shop
-    url: http://soat.shop
-  - name: Openpay Sandbox
-    url: https://sandbox-api.openpay.co
+  - name: Adomi QR (WWW)
+    url: https://www.adomiqr.com
+  - name: Adomi QR (@)
+    url: https://adomiqr.com
   - name: Adomi Core (MS)
     url: https://us-central1-adomi-dev.cloudfunctions.net/core/api/v1
   - name: Adomi Orders (MS)
@@ -30,7 +18,7 @@ sites:
   - name: Adomi Environment (MS)
     url: https://us-central1-adomi-dev.cloudfunctions.net/InitHandler/environment
   - name: Adomi Payment (MS)
-    url: https://us-central1-adomi-dev.cloudfunctions.net/payment
+    url: https://us-central1-adomi-dev.cloudfunctions.net/payment    
   - name: Adomi Insurance (MS)
     url: https://us-central1-adomi-dev.cloudfunctions.net/insurance
   - name: Adomi Wallet (MS)
@@ -43,7 +31,7 @@ sites:
     url: https://us-central1-adomi-dev.cloudfunctions.net/polygons/api/v1/city-polygons/by-city-id/c1e4bcc9-eb84-4653-872c-e38f8de4bf79
   - name: Adomi Reports (MS)
     url: https://us-central1-adomi-dev.cloudfunctions.net/reports/api/v1/reports/count-register-users
-  
+
 assignees:
   - daniel7byte
 
