@@ -16,7 +16,7 @@
     "timeMonth": 262,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2022-02-03": 80
+      "2022-02-03": 82
     }
   },
   {
@@ -35,6 +35,44 @@
     "timeWeek": 296,
     "timeMonth": 296,
     "timeYear": 296,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Adomi QR (WWW)",
+    "url": "https://www.adomiqr.com",
+    "icon": "https://favicons.githubusercontent.com/www.adomiqr.com",
+    "slug": "adomi-qr-www",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-03": 33
+    }
+  },
+  {
+    "name": "Adomi QR (@)",
+    "url": "https://adomiqr.com",
+    "icon": "https://favicons.githubusercontent.com/adomiqr.com",
+    "slug": "adomi-qr",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   },
   {
