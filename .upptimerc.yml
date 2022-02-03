@@ -7,6 +7,10 @@ sites:
     url: https://www.adomi.app
   - name: Adomi Website (@)
     url: https://adomi.app
+  - name: Adomi QR (WWW)
+    url: https://www.adomiqr.com
+  - name: Adomi QR (@)
+    url: https://adomiqr.com
   - name: Adomi Core (MS)
     url: https://us-central1-adomi-dev.cloudfunctions.net/core/api/v1
   - name: Adomi Orders (MS)
