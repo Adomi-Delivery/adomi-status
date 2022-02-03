@@ -12,11 +12,11 @@ sites:
   - name: Adomi QR (@)
     url: https://adomiqr.com
   - name: Dashboard Admin
-    ur: https://admin.adomi.app
+    ur: https://admin.adomi.app/login
   - name: Dashboard Aliados
-    ur: https://aliados.adomi.app
+    ur: https://aliados.adomi.app/login
   - name: Ordenes Web
-    ur: https://ordenes.adomi.app
+    ur: https://ordenes.adomi.app/login
   - name: Adomi Shop
     url: https://adomi.shop
   - name: SOAT Shop
