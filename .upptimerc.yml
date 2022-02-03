@@ -11,6 +11,12 @@ sites:
     url: https://www.adomiqr.com
   - name: Adomi QR (@)
     url: https://adomiqr.com
+  - name: Adomi Shop (@)
+    url: https://adomi.shop
+  - name: SOAT Shop (@)
+    url: http://soat.shop
+  - name: Openpay Sandbox
+    url: https://sandbox-api.openpay.co
   - name: Adomi Core (MS)
     url: https://us-central1-adomi-dev.cloudfunctions.net/core/api/v1
   - name: Adomi Orders (MS)
@@ -46,7 +52,7 @@ status-website:
   introMessage: This is a sample status page which uses **real-time** data from our [Adomi Servers](https://adomi.app/).
   navbar:
     - title: Status
-      href: /
+      href: /adomi-status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Website
