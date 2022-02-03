@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.adomi.app",
     "slug": "adomi-website-www",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 260,
     "timeDay": 260,
     "timeWeek": 260,
     "timeMonth": 260,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2022-02-03": 90
+      "2022-02-03": 93
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/adomi.app",
     "slug": "adomi-website",
     "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptime": "96.91%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "96.91%",
     "time": 265,
     "timeDay": 265,
     "timeWeek": 265,
     "timeMonth": 265,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2022-02-03": 0
+      "2022-02-03": 3
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-03": 42
+      "2022-02-03": 44
     }
   },
   {
@@ -65,19 +65,73 @@
     "icon": "https://favicons.githubusercontent.com/adomiqr.com",
     "slug": "adomi-qr",
     "status": "up",
-    "uptime": "95.12%",
-    "uptimeDay": "95.12%",
-    "uptimeWeek": "95.12%",
-    "uptimeMonth": "95.12%",
-    "uptimeYear": "95.12%",
+    "uptime": "74.78%",
+    "uptimeDay": "74.78%",
+    "uptimeWeek": "74.78%",
+    "uptimeMonth": "74.78%",
+    "uptimeYear": "74.78%",
     "time": 252,
     "timeDay": 252,
     "timeWeek": 252,
     "timeMonth": 252,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2022-02-03": 0
+      "2022-02-03": 3
     }
+  },
+  {
+    "name": "Dashboard Admin",
+    "url": "https://admin.adomi.app",
+    "icon": "https://favicons.githubusercontent.com/admin.adomi.app",
+    "slug": "dashboard-admin",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Dashboard Aliados",
+    "url": "https://aliados.adomi.app",
+    "icon": "https://favicons.githubusercontent.com/aliados.adomi.app",
+    "slug": "dashboard-aliados",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Ordenes Web",
+    "url": "https://ordenes.adomi.app",
+    "icon": "https://favicons.githubusercontent.com/ordenes.adomi.app",
+    "slug": "ordenes-web",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Adomi Shop (@)",
