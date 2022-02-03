@@ -11,6 +11,10 @@ sites:
     url: https://us-central1-adomi-dev.cloudfunctions.net/core/api/v1
   - name: Adomi Orders (MS)
     url: https://us-central1-adomi-dev.cloudfunctions.net/OrderMs
+  - name: Adomi Environment (MS)
+    url: https://us-central1-adomi-dev.cloudfunctions.net/InitHandler/environment
+  - name: Adomi Payment (MS)
+    url: https://us-central1-adomi-dev.cloudfunctions.net/payment    
 
 assignees:
   - daniel7byte
