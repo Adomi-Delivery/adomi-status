@@ -1,7 +1,7 @@
 url: https://us-central1-adomi-dev.cloudfunctions.net/OrderMs
-status: down
-code: 500
-responseTime: 11509
-lastUpdated: 2022-02-19T22:55:33.005Z
+status: up
+code: 200
+responseTime: 91
+lastUpdated: 2022-02-19T23:03:59.238Z
 startTime: Thu Feb 03 2022 01:31:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
