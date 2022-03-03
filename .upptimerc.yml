@@ -21,10 +21,6 @@ sites:
     url: https://www.adomi.shop
   - name: Adomi Shop (@)
     url: https://adomi.shop
-  - name: SOAT Shop (www)
-    url: http://www.soat.shop
-  - name: SOAT Shop (@)
-    url: http://soat.shop
   - name: Openpay Sandbox
     url: https://sandbox-api.openpay.co
   - name: Adomi Core (MS)
