@@ -1,7 +1,7 @@
 url: https://us-central1-adomi-dev.cloudfunctions.net/InitHandler/environment
 status: up
 code: 200
-responseTime: 82
-lastUpdated: 2022-03-21T23:05:19.952Z
+responseTime: 66
+lastUpdated: 2022-03-22T23:05:18.991Z
 startTime: Thu Feb 03 2022 02:49:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
