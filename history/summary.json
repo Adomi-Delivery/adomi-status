@@ -150,7 +150,7 @@
     "timeMonth": 156,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2022-04-07": 934,
+      "2022-04-07": 948,
       "2022-04-06": 1440,
       "2022-04-05": 1440,
       "2022-04-04": 1440,
@@ -419,19 +419,19 @@
     "url": "https://us-central1-adomi-dev.cloudfunctions.net/reports/api/v1/reports/count-register-users",
     "icon": "https://favicons.githubusercontent.com/us-central1-adomi-dev.cloudfunctions.net",
     "slug": "adomi-reports-ms",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 5201,
-    "timeWeek": 1506,
-    "timeMonth": 586,
-    "timeYear": 402,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 401,
+    "timeDay": 3564,
+    "timeWeek": 1371,
+    "timeMonth": 577,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2022-04-07": 0
+      "2022-04-07": 14
     }
   }
 ]
