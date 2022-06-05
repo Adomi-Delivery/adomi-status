@@ -1,7 +1,7 @@
 url: https://us-central1-adomi-dev.cloudfunctions.net/alerts/api/v1
 status: up
 code: 200
-responseTime: 62
-lastUpdated: 2022-06-04T23:05:14.863Z
+responseTime: 50
+lastUpdated: 2022-06-05T23:05:01.014Z
 startTime: Thu Feb 03 2022 02:52:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
