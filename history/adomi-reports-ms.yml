@@ -1,7 +1,7 @@
 url: https://us-central1-adomi-dev.cloudfunctions.net/reports/api/v1/reports/count-register-users
 status: up
 code: 200
-responseTime: 208
-lastUpdated: 2022-07-08T23:19:57.611Z
+responseTime: 271
+lastUpdated: 2022-07-09T23:18:58.020Z
 startTime: Thu Feb 03 2022 02:52:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
